@@ -1,6 +1,6 @@
 package gr.aueb.cf.ch3;
 /**
- * ANTISTREFI ENAN AKRAIO
+ * Αντιστρέφει εναν ακέραιο
  * P.X 123 -> 321
  */
 

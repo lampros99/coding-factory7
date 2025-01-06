@@ -1,7 +1,7 @@
 package gr.aueb.cf.ch3;
 
 import java.util.Scanner;
-//Ελεγχει αν ενας ακεραιος ειναι αρτιος
+//Ελέγχει αν ένας ακέραιος είναι άρτιος
 
 public class IsEvenApp {
     public static void main(String[] args) {

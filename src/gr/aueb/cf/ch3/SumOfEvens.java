@@ -1,7 +1,8 @@
 package gr.aueb.cf.ch3;
 /*
- * ypologizei to anthrisma ton artion
- * apo to 2 mexri ekei pou dinei o xristis
+ * Υπολογίζει το άθροισμα των άρτιων
+ * απο το 2 μέχρι εκεί που δίνει ο
+ * χρήστης.
  */
 
 import java.util.Scanner;

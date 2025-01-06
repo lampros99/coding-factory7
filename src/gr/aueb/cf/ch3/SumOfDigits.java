@@ -3,9 +3,9 @@ package gr.aueb.cf.ch3;
 import java.util.Scanner;
 
 /*
- * υπολογιζει το αθροισμα των ψηφιων
- * ενος ακεραιου.
- * Για παραδειγμα το αθροισμα των ψηφιων του 123 ειναι το 6.
+ * υπολογίζει το άθροισμα των ψηφίων
+ * ενός ακεραίου.
+ * Για παράδειγμα το άθροισμα των ψηφίων του 123 είναι το 6.
  */
 public class SumOfDigits {
     public static void main(String[] args) {
@@ -25,7 +25,7 @@ public class SumOfDigits {
             tempNum /= 10;
         }
 
-        System.out.println("The sum of digits of " + inputNum + "is: " + sum);
+        System.out.println("The sum of digits of " + inputNum + " is: " + sum);
 
     }
 }

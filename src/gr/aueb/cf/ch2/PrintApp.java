@@ -6,6 +6,6 @@ public class PrintApp {
         int moth = 10;
         int year = 2024;
 
-        System.out.printf("H hmerominia einai: %d/%d/%d", day, moth, year );
+        System.out.printf("H ημερομηνία είναι: %d/%d/%d", day, moth, year );
     }
 }

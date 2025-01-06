@@ -3,8 +3,8 @@ package gr.aueb.cf.ch1;
 import java.util.Scanner;
 
 /**
- * Υπολογιζει το αθροισμα δυο ακεραιων
- * με την χρηση μεθοδων
+ * Υπολογίζει το άθροισμα δύο ακεραίων
+ * με την χρήση μεθόδων
  */
 public class AddApp {
     public static void main(String[] args) {

@@ -2,12 +2,12 @@ package gr.aueb.cf.ch2;
 
 import java.util.Scanner;
 /*
-* Me in.nextDouble(); Θα μπορουσαμε να βαλουμε και 10,4
+* Me in.nextDouble(); Θα μποροώσαμε να βάλουμε και 10,4
  */
 public class EuroUsdConverter {
     public static void main(String[] args) {
 
-        //Δηλωση και αρχικοποιηση μεταβλητων
+        //Δήλωση και αρχικοποίηση μεταβλητών
         Scanner in = new Scanner(System.in);
         int inputEuros = 0;
         int totalUsaCents = 0;
@@ -16,7 +16,7 @@ public class EuroUsdConverter {
         final int PARITY = 99;
 
         // Εντολές
-         System.out.println("Δωστε μια τιμη");
+         System.out.println("Δώστε μια τιμή");
          inputEuros = in.nextInt();
 
          totalUsaCents = inputEuros * PARITY;

@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class YearsToDays {
     public static void main(String[] args) {
             Scanner scanner = new Scanner(System.in);
-             // Δήλωση και αρχικοποιηση μεταβλητών
+             // Δήλωση και αρχικοποίηση μεταβλητών
             final int DAYS_PER_YEAR = 365;
             int age = 0;
             int days = 0;

@@ -3,8 +3,8 @@ package gr.aueb.cf.ch3;
 import java.util.Scanner;
 
 /**
- * Υπαρχει ενας secret  που ειναι intenger και
- * ο χρηστης με μια μονο προσπαθεια προσπαθει να τον βρει
+ * Υπάρχει ένας secret που είναι intenger και
+ * ο χρήστης με μια μόνο προσπάθεια προσπαθεί να τον βρεί.
  */
 public class SecretFinder {
     public static void main(String[] args) {

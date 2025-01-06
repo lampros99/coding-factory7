@@ -30,9 +30,5 @@ public class NumDenominator {
             System.out.println("Result " + result);
 
         }
-
-
     }
-
-
 }

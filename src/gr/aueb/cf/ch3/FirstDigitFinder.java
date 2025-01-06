@@ -3,7 +3,7 @@ package gr.aueb.cf.ch3;
 import java.util.Scanner;
 
 /*
- * Βρησκει το πρωτο αριστερα
+ * Βρήσκει το πρώτο αριστερά.
  */
 public class FirstDigitFinder {
     public static void main(String[] args) {

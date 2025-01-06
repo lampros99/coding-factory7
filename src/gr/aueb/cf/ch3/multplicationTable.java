@@ -3,7 +3,7 @@ package gr.aueb.cf.ch3;
 import java.util.Scanner;
 
 /**
- * Θα δωσει ο χρηστης εναν ακεραιο ως output και γινεται ο πολλαπλασιασμος
+ * Θα δώσει ο χρήστης έναν ακέραιο ως output και γίνεται ο πολλαπλασιασμός
  * Apo 1 - 10
  */
 public class multplicationTable {
@@ -21,8 +21,6 @@ public class multplicationTable {
             System.out.printf("%d * %02d = %d\n", num , i, num * i);
             i++;
         }
-
-
 
     }
 }
