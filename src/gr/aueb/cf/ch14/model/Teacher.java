@@ -1,5 +1,5 @@
 package gr.aueb.cf.ch14.model;
-
+//java bean
 public class Teacher {
     private int id;
     private String firstname;
