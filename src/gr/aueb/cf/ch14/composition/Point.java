@@ -1,4 +1,4 @@
-package gr.aueb.cf.ch14;
+package gr.aueb.cf.ch14.composition;
 
 public class Point {
     public double x;
